@@ -1,4 +1,4 @@
-#h2 Week 6 Day 1: SQL and Databases
+## Week 6 Day 1: SQL and Databases
 
 1. How many users are there? 
     50 
